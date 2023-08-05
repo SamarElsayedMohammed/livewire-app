@@ -1,0 +1,36 @@
+.danger {
+    border: 1px solid red;
+    padding: 15px;
+    font-size: 15px;
+    color: red;
+    display: block;
+}
+.flash {
+    display: block;
+    border-radius: 10px;
+    background-color: rgba(133, 204, 133, 0.37);
+    color: black;
+    width: 100%;
+    padding: 10px 30px;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 15px;
+    /* display: flex; */
+    /* justify-content: center; */
+    text-align: center;
+}
+
+.bg-purpel {
+    background-color: #9b59b6 !important;
+    color: white !important;
+    border: none !important;
+    font-weight: 700;
+    font-size: 20px;
+}
+.bg-purpel-disable {
+    background-color: #e0beee !important;
+    color: white !important;
+    border: none !important;
+    font-weight: 700;
+    font-size: 20px;
+}
